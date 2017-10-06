@@ -1,0 +1,8 @@
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\bin\Debug\Tui drag drop file test.exe.config
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\bin\Debug\Tui drag drop file test.exe
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\bin\Debug\Tui drag drop file test.pdb
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\obj\Debug\Tui drag drop file test.csprojResolveAssemblyReference.cache
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\obj\Debug\Tui_drag_drop_file_test.MainForm.resources
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\obj\Debug\Tui drag drop file test.csproj.GenerateResource.Cache
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\obj\Debug\Tui drag drop file test.exe
+D:\programing\[SharpDevelop]\[Tui Test]\drag_drop_file_test\Tui drag drop file test\Tui drag drop file test\obj\Debug\Tui drag drop file test.pdb

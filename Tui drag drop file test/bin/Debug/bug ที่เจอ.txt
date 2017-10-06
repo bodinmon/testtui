@@ -1,0 +1,20 @@
+*ชื่อ folder มีแต่ตัวเลข แล้วมีปัญหา
+เทสชื่อโฟลเดอร์
+abc ok
+123 ok
+1234 ok
+4667 not run
+4666 ok
+4667_ not run
+4667_-Copy ok
+4667a ok
+เดาเอาว่า ถ้าชื่อ folder เลขซ้ำกับเลขชื่อไฟล์ แล้วจะมีปัญหา
+
+
+[18 กันยายน 2560 15:32] Arman: java -jar PATH-TO-JAR/1024.jar "input-folder" "output-folder"
+
+
+
+
+java -jar 1024.jar "D:\Downloads\Lovely Pets\rainforest\pack ID\items\large" "D:\Downloads\Lovely Pets\rainforest\pack ID\items\large"
+java -jar 512.jar "D:\Downloads\Lovely Pets\rainforest\pack ID\items\small" "D:\Downloads\Lovely Pets\rainforest\pack ID\items\small"
